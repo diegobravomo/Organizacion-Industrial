@@ -86,10 +86,10 @@ q_F* = (a - c) / 4b    (seguidor produce menos que en Cournot)
 
 | Modelo | Precio | Cantidad | Beneficio |
 |--------|--------|----------|-----------|
-| Competencia Perfecta | P = CMg | Q_c | π = 0 (LP) |
-| Monopolio | P > CMg | Q_m < Q_c | π > 0 |
-| Cournot (n=2) | P_c < P < P_m | Q_m < Q < Q_c | 0 < π < π_m |
-| Bertrand | P = CMg | Q_c | π = 0 |
+| Competencia Perfecta | P = CMg | Q_cp | π = 0 (LP) |
+| Monopolio | P > CMg | Q_m < Q_cp | π > 0 |
+| Cournot (n=2) | P_m > P_co > P_cp | Q_m < Q_co < Q_cp | 0 < π < π_m |
+| Bertrand | P = CMg | Q_cp | π = 0 |
 
 ---
 

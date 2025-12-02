@@ -22,6 +22,7 @@
 
 ### Convenciones
 - `[PAUSA]` = Momento para reflexionar
+- `[PAUSA LARGA]` = Pausa extendida para pensar en la respuesta
 - `[REPETIR]` = Repetir la fórmula anterior
 - `[LENTO]` = Leer más despacio
 - `π` se lee como "pi" (beneficio)
@@ -297,7 +298,7 @@ Cinco: El Índice de Lerner es igual a uno sobre la elasticidad. A menor elastic
 
 Pregúntate: ¿Por qué el monopolista nunca opera en la porción inelástica de la demanda?
 
-[PAUSA de 10 segundos]
+[PAUSA LARGA]
 
 Respuesta: Porque en la porción inelástica, el ingreso marginal es negativo. Si IMg es negativo y CMg es positivo, el monopolista puede aumentar beneficios reduciendo producción.
 
